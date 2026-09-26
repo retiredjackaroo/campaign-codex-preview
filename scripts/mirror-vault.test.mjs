@@ -3,7 +3,8 @@ import assert from "node:assert/strict"
 import { mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync, existsSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { join } from "node:path"
-import { isIgnored, loadIgnorePatterns, mirrorCampaign } from "./mirror-vault.mjs"
+import { execFileSync } from "node:child_process"
+import { changedSiteFiles, isIgnored, loadIgnorePatterns, mirrorCampaign } from "./mirror-vault.mjs"
 
 const write = (root, file, text) => {
   const path = join(root, file)
@@ -129,4 +130,80 @@ test("reads ignorePatterns from the real quartz config", () => {
   const patterns = loadIgnorePatterns(new URL("../quartz.config.default.yaml", import.meta.url))
   assert.ok(patterns.includes("**/*Transcript*.md"), `got ${JSON.stringify(patterns)}`)
   assert.ok(patterns.includes("private"))
+})
+
+test("incremental mode copies only the listed files and leaves other differences alone", () => {
+  const f = fixture()
+  write(f.site, "NPCs/New.md", "brand new")
+  write(f.site, "NPCs/Edited.md", "site edit")
+  write(f.vault, "NPCs/Edited.md", "old")
+  write(f.site, "NPCs/Drifted.md", "site drift")
+  write(f.vault, "NPCs/Drifted.md", "vault drift that must survive")
+  write(f.vault, "_Archive/keep.md", "vault only")
+  const result = mirrorCampaign({
+    source: f.site,
+    target: f.vault,
+    patterns: [],
+    backupDir: f.backup,
+    only: new Set(["NPCs/New.md", "NPCs/Edited.md"]),
+  })
+  assert.deepEqual(result.added, ["NPCs/New.md"])
+  assert.deepEqual(result.updated, ["NPCs/Edited.md"])
+  assert.equal(
+    readFileSync(join(f.vault, "NPCs/Drifted.md"), "utf8"),
+    "vault drift that must survive",
+  )
+  assert.equal(readFileSync(join(f.vault, "NPCs/Edited.md"), "utf8"), "site edit")
+  assert.equal(readFileSync(join(f.backup, "NPCs/Edited.md"), "utf8"), "old")
+  assert.deepEqual(result.vaultOnly, [])
+  f.done()
+})
+
+test("incremental mode still refuses to copy ignored files, even if they changed", () => {
+  const f = fixture()
+  write(f.site, "Session 9 - Transcript.md", "private")
+  write(f.site, "Session 9 - Notes.md", "public")
+  const result = mirrorCampaign({
+    source: f.site,
+    target: f.vault,
+    patterns: ["**/*Transcript*.md"],
+    only: new Set(["Session 9 - Transcript.md", "Session 9 - Notes.md"]),
+  })
+  assert.deepEqual(result.added, ["Session 9 - Notes.md"])
+  assert.equal(existsSync(join(f.vault, "Session 9 - Transcript.md")), false)
+  f.done()
+})
+
+test("changedSiteFiles reports modified, staged, untracked and renamed files, and lists deletions apart", () => {
+  const f = fixture()
+  const git = (...args) => execFileSync("git", ["-C", f.site, ...args], { encoding: "utf8" })
+  git("init", "-q")
+  git("config", "user.email", "t@t")
+  git("config", "user.name", "t")
+  write(f.site, "content/Campaigns/Dark Sun/NPCs/Kept.md", "kept")
+  write(f.site, "content/Campaigns/Dark Sun/NPCs/Edited.md", "v1")
+  write(f.site, "content/Campaigns/Dark Sun/NPCs/Gone.md", "bye")
+  write(f.site, "content/Campaigns/Dark Sun/NPCs/Old Name.md", "renamed")
+  git("add", "-A")
+  git("commit", "-qm", "base")
+  write(f.site, "content/Campaigns/Dark Sun/NPCs/Edited.md", "v2")
+  write(f.site, "content/Campaigns/Dark Sun/NPCs/Untracked's One.md", "new")
+  rmSync(join(f.site, "content/Campaigns/Dark Sun/NPCs/Gone.md"))
+  git(
+    "mv",
+    "content/Campaigns/Dark Sun/NPCs/Old Name.md",
+    "content/Campaigns/Dark Sun/NPCs/New Name.md",
+  )
+  const { changed, deleted } = changedSiteFiles(f.site, "HEAD")
+  assert.deepEqual(changed.sort(), [
+    "content/Campaigns/Dark Sun/NPCs/Edited.md",
+    "content/Campaigns/Dark Sun/NPCs/New Name.md",
+    "content/Campaigns/Dark Sun/NPCs/Untracked's One.md",
+  ])
+  assert.ok(deleted.includes("content/Campaigns/Dark Sun/NPCs/Gone.md"))
+  git("add", "-A")
+  git("commit", "-qm", "session")
+  assert.deepEqual(changedSiteFiles(f.site, "HEAD").changed, [])
+  assert.equal(changedSiteFiles(f.site, "HEAD~1").changed.length, 3)
+  f.done()
 })

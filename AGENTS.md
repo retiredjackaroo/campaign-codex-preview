@@ -1,6 +1,8 @@
 # Campaign website maintenance
 
-Authoring model: `content/Campaigns/<Campaign>/` in this repository is the canonical source for Dark Sun and Moonsea. The Obsidian vault (`Obsidian Notes/Campaigns/Campaigns/<Campaign>`) is a backup mirror, not the source. After every publish, and after any session build, run `npm run mirror-vault`: it copies the site's campaign folders over the vault, backs up any vault file it overwrites, and never deletes vault-only files.
+Authoring model: `content/Campaigns/<Campaign>/` in this repository is the canonical source for Dark Sun and Moonsea. The Obsidian vault (`Obsidian Notes/Campaigns/Campaigns/<Campaign>`) is a backup mirror, not the source. After any session build, run `npm run mirror-vault`. It is incremental: it copies only the files changed in the working tree (vs HEAD; use `-- --since <ref>` after committing), so the two sides converge gradually and pre-existing differences are left alone. It backs up any vault file it overwrites, never deletes vault-only files, and never copies transcripts. `-- --all` mirrors both whole campaigns and needs the owner's explicit approval. Add `-- --dry-run` to preview.
+
+Current constraint (set by the owner, remove when they say so): work only on the `vault-mirror-lock` branch and its worktree. Do not merge into, or push to, `origin/v5`, and do not deploy production, until the owner decides otherwise.
 
 Preserve all pre-existing user edits. This repository is public, so it must never hold the private evidence store. Never copy transcripts, DM-private data, campaign registries, source manifests, \_Inbox or evidence directories into content. Campaign identities and images must not cross into other campaigns. The Show Must Go On has its own repository; stale copies in Campaign Codex are excluded from builds pending historical reconciliation.
 
