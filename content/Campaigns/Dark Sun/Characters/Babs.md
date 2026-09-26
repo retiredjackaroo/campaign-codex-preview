@@ -11,7 +11,7 @@ dg-publish: true
 publish: true
 ---
 
-![[Pasted image 20260627123930.png]]
+![[Campaigns/Dark Sun/Assets/Pasted image 20260627123930.png]]
 
 A mute Mul gladiator and the party's tank. Cannot speak but communicates through body language and action. Formerly referred to simply as "Her"; the nickname "Babs" (from "bad-ass bitch," first floated at the table in Act II, Session 5 and reprised in Session 6) is now her official name going forward. Despite her background as a bred fighter, she has formed a wordless bond with [[Brave]], [[Derfel]]'s companion dog. Brave responds to her in ways he does not with others, reading her moods and body language instinctively.
 

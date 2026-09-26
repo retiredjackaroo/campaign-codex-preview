@@ -11,7 +11,7 @@ tags:
 
 # Chastha of the Red Gorge
 
-![[Pasted image 20260628010747.png]]
+![[Campaigns/Dark Sun/Assets/Pasted image 20260628010747.png]]
 A member of [[The Wardens]].
 
 **Status:** Unknown

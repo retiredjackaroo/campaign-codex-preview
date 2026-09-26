@@ -12,7 +12,7 @@ tags:
 
 # The Maimed Virulence
 
-![[Pasted image 20260628173230.png]]
+![[Campaigns/Moonsea/Assets/Pasted image 20260628173230.png]]
 The dragon power behind the occupation of [[Phlan]]. [[Vurthak]] is named one of its spawn.
 
 **First appears:** [[Chapter 11 - Episode 1 - Session 1 The Silver Pyramid]]

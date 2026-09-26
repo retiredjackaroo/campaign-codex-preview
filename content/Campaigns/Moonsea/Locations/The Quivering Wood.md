@@ -8,7 +8,7 @@ tags:
 
 # The Quivering Wood
 
-![[med-5.png]]
+![[Campaigns/Moonsea/Assets/med-5.png]]
 A wooded location recorded in the campaign journal.
 
 **First appears:** <!-- to be confirmed from session material -->

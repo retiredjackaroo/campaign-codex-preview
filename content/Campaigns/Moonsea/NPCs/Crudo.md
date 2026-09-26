@@ -12,7 +12,7 @@ tags:
 
 # Crudo
 
-![[Pasted image 20260628174128.png]]
+![[Campaigns/Moonsea/Assets/Pasted image 20260628174128.png]]
 Defeated by the party at [[The Lyceum]] before this episode, in the action that freed [[Lord Hector]] and the others. Crudo ran the Dread Realm, a domain from which both [[Jaag Nixon]] and [[Lavinia Zafir]] originate, and where [[The Red Lady]] was first encountered. Outside the Dread Realm, he went by the persona of **Lord Yellowcrest**.
 
 **Status:** Defeated

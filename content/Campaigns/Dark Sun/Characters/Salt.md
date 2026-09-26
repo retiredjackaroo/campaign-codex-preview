@@ -11,7 +11,7 @@ publish: true
 
 # Salt
 
-![[Pasted image 20260627141001.png]]
+![[Campaigns/Dark Sun/Assets/Pasted image 20260627141001.png]]
 
 A Psion and, in truth, a Water Genasi, though for a long time he presented himself to others as human. On Athas, where water is the most precious resource on a dying world, a being of elemental water is remarkable, and potentially dangerous to reveal, so Salt kept his nature hidden behind a hood and a vague story.
 

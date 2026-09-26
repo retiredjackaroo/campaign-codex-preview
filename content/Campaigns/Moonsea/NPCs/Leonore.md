@@ -10,8 +10,8 @@ tags:
 
 # Leonore
 
-![[Pasted image 20260628184510.png]]
-![[med-2.png]]
+![[Campaigns/Moonsea/Assets/Pasted image 20260628184510.png]]
+![[Campaigns/Moonsea/Assets/med-2.png]]
 A fallen Aasimar, and the mother of [[Keithelas Ward|Kei]] and [[Iltiza Ward]]. She presently espouses the cult's cause and is considered evil. The party does not know what lies behind that: she may be possessed, she may be brainwashed, or she may genuinely believe what the cult believes. Her relationship with the party is fraught and unresolved: she is family to two of them and a threat to all of them at once.
 
 **Status:** Fallen Aasimar; considered evil; possessed, brainwashed, or a true believer (unknown)

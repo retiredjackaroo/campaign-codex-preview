@@ -9,7 +9,7 @@ publish: true
 
 # The Cisterns
 
-![[Pasted image 20260628013843.png]]
+![[Campaigns/Dark Sun/Assets/Pasted image 20260628013843.png]]
 An underground network of cisterns and aqueduct channels running beneath [[Raam]]. [[The Alliance]] hides here and uses these tunnels as the infrastructure of their resistance operation. The network is accessed from the surface via a secret entrance whose location is closely guarded.
 
 Two known surface access points: a close entrance near [[The Plaza]], and a further entrance deeper into [[The Slums]].

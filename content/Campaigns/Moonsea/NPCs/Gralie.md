@@ -14,7 +14,7 @@ tags:
 
 # Gralie
 
-![[med-7.png]]
+![[Campaigns/Moonsea/Assets/med-7.png]]
 A halfling woman with connections to [[Melvaunt]] who works with the Lord of Tides. A contact of [[Keithelas Ward|Kei]]'s: she came into town looking for him and has a job for him.
 
 She also appears in the session record as one of the prisoners freed from [[The Lyceum]], noted at the time as "just happy to get the hell out of there." Whether this refers to the same Gralie or is a transcription confusion is unconfirmed. If it is the same person, she was a prisoner at the Lyceum before or during the campaign's current events, which would add significant context to her current approach to Keithalas.

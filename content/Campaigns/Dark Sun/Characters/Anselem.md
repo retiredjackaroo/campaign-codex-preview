@@ -11,7 +11,7 @@ publish: true
 
 # Anselem
 
-![[Pasted image 20260630164615.png]]
+![[Campaigns/Dark Sun/Assets/Pasted image 20260630164615.png]]
 
 A Fire Urokite whose bond to elemental flame carries both power and political weight on Athas, where defiling magic has scorched the land and elemental forces are venerated as the primary alternative to the sorcerer-kings.
 

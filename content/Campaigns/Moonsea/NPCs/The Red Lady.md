@@ -12,7 +12,7 @@ tags:
 
 # The Red Lady
 
-![[Pasted image 20260628173144.png]]
+![[Campaigns/Moonsea/Assets/Pasted image 20260628173144.png]]
 
 A mysterious figure first encountered in the Dread Realm, the domain run by [[Crudo]]and the origin of both [[Jaag Nixon]] and [[Lavinia Zafir]]. Both carry a strange affinity for her that neither has fully explained. [[Jaag Nixon]] is known to sing a strange song when she comes to mind, apparently without entirely meaning to.
 

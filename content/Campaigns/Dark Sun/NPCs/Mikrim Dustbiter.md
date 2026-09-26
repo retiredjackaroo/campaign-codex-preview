@@ -11,7 +11,7 @@ tags:
 
 # Mikrim Dustbiter
 
-![[Pasted image 20260628010914.png]]
+![[Campaigns/Dark Sun/Assets/Pasted image 20260628010914.png]]
 A member of [[The Wardens]].
 
 **Status:** Unknown

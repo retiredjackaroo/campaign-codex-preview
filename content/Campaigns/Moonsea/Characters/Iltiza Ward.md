@@ -12,7 +12,7 @@ tags:
 
 # Iltiza Ward
 
-![[Pasted image 20260627145047.png]]
+![[Campaigns/Moonsea/Assets/Pasted image 20260627145047.png]]
 
 An Aasimar Cleric of [[Church of Selune|Selune]] (she/her), known to everyone as **Tiz**. Twenty-one years old, 5'6", with hazel eyes flecked with gold, golden-blonde hair, and white skin scattered with metallic gold freckles. Sister of [[Keithelas Ward|Kei]] and daughter of [[Leonore]].
 

@@ -13,7 +13,7 @@ tags:
 
 # Leviath
 
-![[Pasted image 20260628013925.png]]
+![[Campaigns/Dark Sun/Assets/Pasted image 20260628013925.png]]
 A half-giant and representative of [[The Alliance]], the hidden resistance operating beneath the city in the cisterns and aqueduct channels. Wife of [[Korno]], head of the Slums faction. Was guiding the party and approximately fifteen peasants, including children and elderly, through the occupied plaza during Act II, Session 4.
 
 **Status:** Alive

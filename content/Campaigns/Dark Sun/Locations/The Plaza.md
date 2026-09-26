@@ -10,7 +10,7 @@ tags:
 
 # The Plaza
 
-![[Pasted image 20260628013808.png]]
+![[Campaigns/Dark Sun/Assets/Pasted image 20260628013808.png]]
 A plaza within [[Raam]], currently serving as a field camp for a coalition of [[The Templars]], [[Noble House Soldiers]], and [[Dregoth Cultists]]. The camp consists of tents, bonfires, and trash fires, active with patrols moving in and out as well as guards stationed throughout.
 
 Beneath the plaza lies the secret entrance to [[The Cisterns]], the underground network used by [[The Alliance]].

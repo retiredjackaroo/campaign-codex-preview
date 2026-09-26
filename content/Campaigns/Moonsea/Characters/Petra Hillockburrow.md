@@ -12,7 +12,7 @@ tags:
 
 # Petra Hillockburrow
 
-![[Pasted image 20260628161536.png]]
+![[Campaigns/Moonsea/Assets/Pasted image 20260628161536.png]]
 
 A Harengon Barbarian. Fights with rage and the Stasis Strike. One of only two party members to resist [[Welsea Parenthe]]'s charm, and the one who checked [[The Lord Sage]] for compulsion. An absolute bad arse.
 

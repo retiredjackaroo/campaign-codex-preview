@@ -9,7 +9,7 @@ tags:
 
 # Derru
 
-![[Pasted image 20260628011010.png]]
+![[Campaigns/Dark Sun/Assets/Pasted image 20260628011010.png]]
 A member of [[The Wardens]].
 
 **Status:** Unknown

@@ -12,7 +12,7 @@ tags:
 
 # Tanji the Worm Keeper
 
-![[Pasted image 20260628010839.png]]
+![[Campaigns/Dark Sun/Assets/Pasted image 20260628010839.png]]
 A member of [[The Wardens]]. The title Worm Keeper suggests a handler of sandworms or similar Athasian creatures.
 
 **Status:** Unknown

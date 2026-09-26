@@ -10,7 +10,7 @@ tags:
 
 # Raam
 
-![[Pasted image 20260627220114.png]]
+![[Campaigns/Dark Sun/Assets/Pasted image 20260627220114.png]]
 
 The city-state in which the campaign has been based throughout. Raam is one of the city-states of Athas, ruled until recently by [[The Padshah]] as head of the Gulbadan faction, with [[The Gulbadan Maulani]] serving as Grand Vizier. The city suffered a catastrophic event known as the Inundation of Raam, during which the Padshah died.
 

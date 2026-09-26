@@ -13,7 +13,7 @@ tags:
 
 # Keithalas
 
-![[Pasted image 20260627140947.png]]
+![[Campaigns/Moonsea/Assets/Pasted image 20260627140947.png]]
 
 An Aasimar Rogue. Understands Orcish, which let him catch the boarding party's order to search the [[The Arbitus|Arbitus]]. Fascinated by, and furious at being charmed by, the vampire [[Welsea Parenthe]]. Brother of [[Iltiza Ward]] and son of [[Leonore]].
 

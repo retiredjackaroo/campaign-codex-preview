@@ -11,7 +11,7 @@ publish: true
 
 # Derfel
 
-![[Pasted image 20260627123854.png]]
+![[Campaigns/Dark Sun/Assets/Pasted image 20260627123854.png]]
 An Elf Beast Master Ranger. Outlander background. Carries a Longbow and twin Shortswords +1. Defined by his bond with his companion dog [[Brave]], the third in a line following [[Dave]] and [[Maeve]]. Quietly protective of Brave in a way that is deliberate rather than sentimental: he has learned the cost.
 
 Found in the wastes by [[Kit-Chac]], who taught him to hunt. The bond between them is foundational: everything Derfel knows about surviving Athas traces back to his Thri-Kreen brother. Derfel does not think of Kit-Chac as Thri-Kreen. He thinks of him as his brother. The distinction matters enormously to Derfel and would confuse him if pointed out.

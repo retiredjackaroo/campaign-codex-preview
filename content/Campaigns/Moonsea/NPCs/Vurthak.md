@@ -14,7 +14,7 @@ tags:
 
 # Vurthak
 
-![[med-1.png]]
+![[Campaigns/Moonsea/Assets/med-1.png]]
 
 A half-dragon commander of the [[Burning Banner]], called a spawn of the [[The Maimed Virulence|Maimed Virulence]]. Also known as **Dragonsoul Vurthac**. Controls all river traffic on this stretch and "questions" any boat that deviates. Boarded the [[The Arbitus|Arbitus]] and is currently bloodied but still standing.
 

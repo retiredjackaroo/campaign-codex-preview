@@ -13,7 +13,7 @@ tags:
 
 # The Lord Sage
 
-![[Pasted image 20260628174156.png]]
+![[Campaigns/Moonsea/Assets/Pasted image 20260628174156.png]]
 Head of [[Mantor's Library]] and one of the three resistance leaders inside occupied [[Phlan]]. Elderly, ill and very sharp. Knows more than he admits: he sensed [[Lavinia Zafir]]'s invisible spider and addressed it directly.
 
 **Status:** In Phlan (clandestine)\

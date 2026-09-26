@@ -11,7 +11,7 @@ tags:
 
 # Blackfist
 
-![[med-4.png]]
+![[Campaigns/Moonsea/Assets/med-4.png]]
 [[Phlan]]'s military order. Remnants resist inside the occupied city under [[Giselle Greycastle]]; others followed [[Lord Hector]] into exile.
 
 **First appears:** [[Chapter 11 - Episode 1 - Session 1 The Silver Pyramid]]

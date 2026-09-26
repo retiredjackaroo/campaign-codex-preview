@@ -9,7 +9,7 @@ tags:
 
 # Jhessail Greycastle
 
-![[med-3.png]]
+![[Campaigns/Moonsea/Assets/med-3.png]]
 A named figure of [[Phlan]] recorded in the campaign journal. Distinct from [[Giselle Greycastle]]; the two share the Greycastle name and may be related.
 
 **Status:** Unknown

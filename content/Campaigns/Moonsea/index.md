@@ -18,7 +18,7 @@ dg-publish: true
 publish: true
 ---
 
-![[Pasted image 20260622200441.png]]
+![[Campaigns/Moonsea/Assets/Pasted image 20260622200441.png]]
 
 Home page for the campaign wiki. This page always reflects the latest session only — for the full history, see the [[Campaigns/Moonsea/Archive|Archive]].
 

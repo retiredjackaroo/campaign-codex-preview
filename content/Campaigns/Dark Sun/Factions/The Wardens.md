@@ -10,7 +10,7 @@ tags:
 
 # The Wardens
 
-![[Pasted image 20260628011036.png]]
+![[Campaigns/Dark Sun/Assets/Pasted image 20260628011036.png]]
 A faction encountered during the campaign. The named members suggest a martial or guardian role operating in harsh terrain.
 
 **First appears:** <!-- link to episode once built -->

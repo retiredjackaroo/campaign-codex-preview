@@ -10,7 +10,7 @@ tags:
 
 # Fenrik
 
-![[med-6.png]]
+![[Campaigns/Moonsea/Assets/med-6.png]]
 Freed from imprisonment at [[The Lyceum]]. Stayed in [[Phlan]] alongside [[Levith]] to organise resistance.
 
 - Speaks politely, softly, often apologetically

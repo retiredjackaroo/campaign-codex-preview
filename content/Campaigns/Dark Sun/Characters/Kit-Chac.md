@@ -13,7 +13,7 @@ publish: true
 
 # Kit-Chac
 
-![[Pasted image 20260627143224.png]]
+![[Campaigns/Dark Sun/Assets/Pasted image 20260627143224.png]]
 
 A Thri-Kreen Warrior of the Open Hand Monk and the brother of [[Derfel]]. Four-armed, chitinous, requiring no sleep. Found Derfel in the wastes and taught him to hunt, an act of adoption across species lines that on Athas is not a small thing.
 

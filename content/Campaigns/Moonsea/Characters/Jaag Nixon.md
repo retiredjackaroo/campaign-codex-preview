@@ -13,7 +13,7 @@ tags:
 
 # Jaag Nixon
 
-![[Pasted image 20260628133925.png]]
+![[Campaigns/Moonsea/Assets/Pasted image 20260628133925.png]]
 
 A sharp-tongued rogue and the author of the in-character journal. Fights with a rapier that carries a cold enchantment and uses Fancy Footwork to slip out of melee. Speaks Draconic, hails from Brixton, and was the one to spot that [[Welsea Parenthe]] cast no reflection.
 

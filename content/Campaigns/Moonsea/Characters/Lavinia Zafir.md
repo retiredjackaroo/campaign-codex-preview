@@ -12,7 +12,7 @@ tags:
 
 # Lavinia Zafir
 
-![[Pasted image 20260627194046.png]]
+![[Campaigns/Moonsea/Assets/Pasted image 20260627194046.png]]
 
 A Dhampir Warlock. Wields a spider familiar (often invisible), Minor Illusion, Soul Ripper and death wards. Used the familiar to eavesdrop on [[The Lord Sage]] after the briefing. Convinced that [[Welsea Parenthe]] is using the party for her own ends.
 

@@ -18,7 +18,7 @@ continueStory:
   imageAlt: The Born Under a Dark Sun adventuring party
 ---
 
-![[verdant_passage_1-1.jpg.webp]]
+![[Campaigns/Dark Sun/Assets/verdant_passage_1-1.jpg.webp]]
 Home page for the Dark Sun campaign wiki. This page always reflects the latest session only; for the full history, see the [[Campaigns/Dark Sun/Archive|Archive]].
 
 ## Where We Are Now
