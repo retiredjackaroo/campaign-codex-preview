@@ -53,6 +53,8 @@ jobs:
       - name: Build Quartz
         run: npm run build
       - name: Validate generated site
+        env:
+          SITE_BASE_PATH: /campaign-codex-preview/
         run: npm run check:site
       - name: Version social preview images
         run: node scripts/version-og-urls.mjs public
