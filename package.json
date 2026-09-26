@@ -23,6 +23,7 @@
     "audit:assets": "tsx scripts/audit-assets.ts",
     "sync:continue": "node scripts/sync-continue-story.mjs",
     "check:continue": "node scripts/sync-continue-story.mjs --check",
+    "mirror-vault": "node scripts/mirror-vault.mjs",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
     "install-plugins": "npx quartz plugin install"
   },
