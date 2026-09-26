@@ -9,24 +9,24 @@
 }
 
 body {
-  --campaign-masthead: url("/campaign-codex/campaigns/moonsea/assets/the-journey-begins.png");
+  --campaign-masthead: url("campaigns/moonsea/assets/the-journey-begins.png");
   --campaign-masthead-position: center 42%;
   position: relative;
   overflow-x: clip;
 }
 
 body[data-slug^="campaigns/moonsea"] {
-  --campaign-masthead: url("/campaign-codex/campaigns/moonsea/assets/moonsea-team.png");
+  --campaign-masthead: url("campaigns/moonsea/assets/moonsea-team.png");
   --campaign-masthead-position: center 8%;
 }
 
 body[data-slug*="pugs-side-quest"] {
-  --campaign-masthead: url("/campaign-codex/campaigns/moonsea/assets/pugs-side-quest-team.png");
+  --campaign-masthead: url("campaigns/moonsea/assets/pugs-side-quest-team.png");
   --campaign-masthead-position: center 28%;
 }
 
 body[data-slug^="campaigns/dark-sun"] {
-  --campaign-masthead: url("/campaign-codex/campaigns/dark-sun/assets/dark-sun-team.png");
+  --campaign-masthead: url("campaigns/dark-sun/assets/dark-sun-team.png");
   --campaign-masthead-position: center 6%;
 }
 

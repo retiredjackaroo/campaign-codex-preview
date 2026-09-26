@@ -143,13 +143,13 @@ body[data-slug="index"] .center > hr {
 .campaign-card--moonsea .campaign-card__art {
   background-image:
     linear-gradient(to top, rgba(9, 12, 16, 0.45), transparent 50%),
-    url("/campaign-codex/campaigns/moonsea/assets/moonsea-team.png");
+    url("campaigns/moonsea/assets/moonsea-team.png");
 }
 
 .campaign-card--dark-sun .campaign-card__art {
   background-image:
     linear-gradient(to top, rgba(20, 10, 5, 0.5), transparent 50%),
-    url("/campaign-codex/campaigns/dark-sun/assets/dark-sun-team.png");
+    url("campaigns/dark-sun/assets/dark-sun-team.png");
 }
 
 .campaign-card:hover .campaign-card__art {
@@ -226,19 +226,19 @@ body[data-slug="index"] .center > hr {
 .resume-card--moonsea .resume-card__art {
   background-image:
     linear-gradient(to top, rgba(9, 12, 16, 0.38), transparent 52%),
-    url("/campaign-codex/campaigns/moonsea/assets/moonsea-team.png");
+    url("campaigns/moonsea/assets/moonsea-team.png");
 }
 
 .resume-card--dark-sun .resume-card__art {
   background-image:
     linear-gradient(to top, rgba(20, 10, 5, 0.42), transparent 52%),
-    url("/campaign-codex/campaigns/dark-sun/assets/dark-sun-team.png");
+    url("campaigns/dark-sun/assets/dark-sun-team.png");
 }
 
 .resume-card--pug .resume-card__art {
   background-image:
     linear-gradient(to top, rgba(9, 12, 16, 0.38), transparent 52%),
-    url("/campaign-codex/campaigns/moonsea/assets/pugs-side-quest-thumbnail.png");
+    url("campaigns/moonsea/assets/pugs-side-quest-thumbnail.png");
   background-position: center 34%;
 }
 
