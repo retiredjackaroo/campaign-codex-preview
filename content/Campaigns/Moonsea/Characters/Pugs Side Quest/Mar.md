@@ -58,3 +58,11 @@ One of the Sylvan folk, Mar usually works as a guide, helping others navigate th
 - Began unconscious and gravely injured. Herschel stabilised her with a healer's kit, and Morwyn's Aid helped sustain her through the recovery.
 - Remained concealed with Ripper while the others travelled to the Moon Plaza; no player-controlled actions were recorded.
 - Recovered enough to follow the group's note and entered the Moon Plaza with Ripper at the closing cliffhanger.
+
+## Session 7, The City Must Judge
+
+- Entered Archer Form on reaching the plaza and attacked the Moon Deva with Starry Wisp.
+- Identified and fitted the first-quarter disc that Morwyn found, then later found and fitted the waning-gibbous disc.
+- Was bound by ribbons of liquid moonlight until Ocreata tore them loose; the deva's next gust immediately rolled her twenty feet across the plaza.
+- Healed Pug for 16 HP while he was pinned at the bottom of a Gravity Sinkhole.
+- Supported the plan to restore the Moonstone's defence while the party seeks the city's remaining trials.

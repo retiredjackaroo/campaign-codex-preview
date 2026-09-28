@@ -73,3 +73,11 @@ The Knights, Sylvan Guard and outpost elves have their own long history together
 - Recalled the legend of three imprisoned fiends falling on Myth Drannor like meteors and connected it to the smoking crater on Coronal's Way.
 - Attacked the Moonstone with Dissonant Whispers in the voice of a dial-up modem, with no visible effect.
 - Commanded the Moon Deva to grovel; it resisted and answered “No” in his exact musical key. He then gave Herschel Bardic Inspiration.
+
+## Session 7, The City Must Judge
+
+- Damaged the Moon Deva with Dissonant Whispers while testing its concentration on Wall of Force.
+- Found the first-quarter and waning-crescent lunar discs; Mar fitted the first, and Morwyn escaped moonlight bindings with Misty Step before fitting the second himself.
+- Twice attempted Dimension Door through Myth Drannor's unstable magic. The first failed harmlessly; the second produced sonic booms at both endpoints and minor thunder damage but no passage.
+- Cast Mass Healing Word across the escort as the prolonged search wore them down.
+- Proposed taking the weakened deva as a shortcut into the temple, then accepted Pug's decision to seek the city's trials instead.

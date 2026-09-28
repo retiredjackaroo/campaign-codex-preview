@@ -137,7 +137,7 @@ The party, exiled alongside Lord Hector's refugees at the Ring Islands, has been
 
 ![[Pugs side quest team.png]]
 
-**Pug's Side Quest: Beneath the Same Moon** — The survivors honoured Kjeorn, met the seven-century castaway Ocreata, and reached the Moon Plaza. Pug has seen the third Coronal's memory; the reunited escort now faces a Moon Deva and a hostile Moonstone guarding the temple.
+**Pug's Side Quest: The City Must Judge** — The reunited escort completed the Moon Plaza's lunar mechanism and deactivated the Moonstone. A weakened Moon Deva still bars the temple while Pug seeks the city's remaining trials and a judgment of worthiness.
 
 ➡️ [[Sessions/Chapter 11/Pugs Side Quest/index|Enter Pug's Side Quest]]
 

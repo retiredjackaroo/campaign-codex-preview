@@ -20,7 +20,7 @@ Weathered statues of priests, pilgrims, families and children line the approach.
 
 > May every soul find its path beneath the same moon.
 
-The missing Harper Aranis was last followed into ruins beneath this temple, where stone steps had begun moving between visits. Pug's escort reached the plaza but has not yet entered the sanctuary.
+The missing Harper Aranis was last followed into ruins beneath this temple, where stone steps had begun moving between visits. Pug's escort has deactivated the Moonstone outside but has not entered the sanctuary. The city must still judge Pug worthy through further trials; forcing entry would mean passing the weakened deva without changing that judgment.
 
-**Status:** Unentered; approach guarded by the [[Moon Deva]] and [[Moonstone]]
+**Status:** Unentered; the Moonstone is dormant, and the [[Moon Deva]] remains the last active barrier
 **First appears:** [[Session 6 - Beneath the Same Moon]]

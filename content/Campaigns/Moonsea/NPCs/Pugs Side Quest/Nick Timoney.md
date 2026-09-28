@@ -15,5 +15,7 @@ During [[Session 3 - Enter as Guests, Leave as Guardians]], Nick scouted the par
 
 During [[Session 6 - Beneath the Same Moon]], Pug summoned Nick to search the [[Moon Plaza]] for missing lunar discs. Nick rolled a natural 1, flew a beautiful arc with little backward rolls, found nothing and looked to Pug as though waiting to be told he had done well.
 
-**Status:** Alive, summoned
+Pug sent Nick on another low searching pass during [[Session 7 - The City Must Judge]]. The [[Moonstone]] caught the owl in a radiant-lightning blast and destroyed the familiar.
+
+**Status:** Familiar form destroyed in the Moon Plaza; can be summoned again
 **First appears:** [[Session 1 - Escort to Myth Drannor - Narrative]]

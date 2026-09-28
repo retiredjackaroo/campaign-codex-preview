@@ -20,6 +20,6 @@ At its centre stands a fountain beneath a hovering, person-sized [[Moonstone]]. 
 
 When [[Pug DAstibar|Pug D'Astibar]] entered, the plaza showed him a memory of the third Coronal's investiture. Thousands of elves gathered while the new Coronal knelt before the people and declared that honour was service rather than dominion.
 
-The Moonstone and [[Moon Deva]] now defend the plaza. The deva has enclosed the fountain and its [[Moon Phase Discs|lunar mechanism]] beneath a Wall of Force.
+Pug's reunited escort recovered the remaining [[Moon Phase Discs|lunar discs]] while the Moonstone and [[Moon Deva]] attacked. When Ripper fitted the last disc, the mechanism glowed and the Moonstone descended into the fountain and became inactive. The weakened deva now stands as the temple's only active defence.
 
 **First appears:** [[Session 6 - Beneath the Same Moon]]

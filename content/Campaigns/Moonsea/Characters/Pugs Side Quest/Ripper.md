@@ -6,7 +6,7 @@ tags:
   - pc
   - side-quest
   - pugs-side-quest
-status: Alive (shaken)
+status: Alive; at the Moon Plaza
 dg-publish: true
 publish: true
 ---
@@ -18,7 +18,7 @@ A Half-Elf Hollow Warden Ranger, played by [[Lavinia Zafir]]'s player as a secon
 
 A former bandit captain who once terrorised the lands around these parts with her crew of brigands. After poking her nose too deeply into [[Myth Drannor]]'s secrets, she experienced an unknown horror, then was defeated and caught by the [[Knights of Myth Drannor]]. Forever changed, she now reluctantly works with what she considers the overly stuck-up Knights against greater threats to Myth Drannor, determined to keep what is buried deep within secret and safe.
 
-**Status:** Alive (shaken)
+**Status:** Alive; at the [[Moon Plaza]] after fitting the final lunar disc
 **First appears:** [[Session 1 - Escort to Myth Drannor - Narrative]]
 
 ## Alter Ego
@@ -64,3 +64,9 @@ When whatever she encountered beneath [[Myth Drannor]] takes hold, Ripper's form
 - Began unconscious and gravely injured. Herschel stabilised her with a healer's kit, but she required more time than Pug and Morwyn to recover.
 - Remained concealed with Mar while the others travelled to the Moon Plaza; no player-controlled actions were recorded.
 - Recovered enough to follow the group's note and entered the Moon Plaza with Mar at the closing cliffhanger.
+
+## Session 7, The City Must Judge
+
+- Entered Wrath of the Wild, struck the Moon Deva with dagger and sword, then was swept twenty feet away by a tide of water.
+- Searched the plaza methodically through repeated Moonstone blasts and found the waxing-crescent disc.
+- Forced her way through the deva's sustained wind and fitted the final disc, completing the lunar mechanism and deactivating the Moonstone.

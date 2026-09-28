@@ -54,3 +54,11 @@ Character concept based on Jackson Lamb (the fictional Slough House spymaster). 
 - Returned the plants after Ocreata warned that nothing growing in Myth Drannor could be taken from the city.
 - Found the new-moon disc among the Moon Plaza's rubble and fitted it opposite the full moon, causing the hovering Moonstone to pulse and the Moon Deva to appear.
 - Summoned a fey hawk to search the plaza. It located two likely lunar discs before the deva bound it with liquid moonlight and destroyed it in the fall.
+
+## Session 7, The City Must Judge
+
+- Tried to dispel the deva's Wall of Force, but failed the spellcasting ability check.
+- Asked the Moon Deva how the escort could be judged worthy and helped establish that the city itself, not the guardian, decides.
+- Wild Shaped into a riding horse to cross and search the plaza at speed.
+- Struck the deva with hooves and Primal Strike while trying to break its concentration on Pug's Gravity Sinkhole.
+- Argued that the group should respect Myth Drannor's last guardian, seek the city's trials and return only after being judged worthy.

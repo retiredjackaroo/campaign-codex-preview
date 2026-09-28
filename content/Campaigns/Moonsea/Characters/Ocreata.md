@@ -23,7 +23,7 @@ He believes the city is seeking someone worthy to carry its memory and is testin
 
 Ocreata wears ancient, torn armour and fights with a glaive. Long survival in the ruins has made him wary of spellcasting, which can produce unpredictable and explosive effects in the city's damaged magic.
 
-**Status:** Alive; trapped in Myth Drannor and fighting beside Pug's escort in the [[Moon Plaza]]
+**Status:** Alive; trapped in Myth Drannor and helping Pug's escort seek the city's judgment
 **First appears:** [[Session 6 - Beneath the Same Moon]]
 
 ## Session 6, Beneath the Same Moon
@@ -34,3 +34,11 @@ Ocreata wears ancient, torn armour and fights with a glaive. Long survival in th
 - Revealed that the city has repeatedly restored him after death and will not allow him to leave until his debt is paid.
 - Wept at [[Over the Hills and Far Away|Morwyn's song for Kjeorn]], the first music he had heard in Myth Drannor for more than seven hundred years.
 - Warned the group about the [[Moon Deva]], stepped in front of Herschel and Morwyn, then charged it with his glaive. Four attacks were deflected, but repeated grazing strikes drew blood before the deva hurled him twenty feet.
+
+## Session 7, The City Must Judge
+
+- Fitted the third-quarter lunar disc opposite Mar's first-quarter disc.
+- Recalled that Myth Drannor judges candidates through repeated trials of reverence for its history and memory, often in patterns of three. Kjeorn's sacrifice may count, but the judgment remains incomplete.
+- Explained that the Moon Deva is a manifestation of the damaged but living Mythal and does not itself decide who is worthy.
+- Tore Mar free from bindings of liquid moonlight and distracted the deva with glaive and javelin attacks while the others searched.
+- Warned against forcing entry: Myth Drannor judged him unworthy and has trapped him through repeated deaths for roughly seven centuries.

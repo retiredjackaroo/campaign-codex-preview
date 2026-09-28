@@ -20,5 +20,7 @@ A rare, person-sized crystal suspended above the fountain in the [[Moon Plaza]].
 
 The crystal turned towards [[Pug DAstibar|Pug D'Astibar]] after his vision of the third Coronal's investiture and attacked with radiant lightning, force and bursts of magical energy. It pulsed when [[Herschel Blackroot]] placed a new-moon disc into the fountain's [[Moon Phase Discs|lunar mechanism]].
 
-**Status:** Active; enclosed with the fountain beneath the [[Moon Deva]]'s Wall of Force
+The reunited escort recovered and fitted the remaining lunar discs while the [[Moon Deva]] tried to drive them away. When [[Ripper]] fitted the final waxing-crescent disc, all eight phases glowed and the Moonstone descended into its mount above the fountain.
+
+**Status:** Inactive; all eight lunar discs are fitted. The party discussed removing one disc to reactivate the ward before leaving, but deferred the action.
 **First appears:** [[Session 6 - Beneath the Same Moon]]

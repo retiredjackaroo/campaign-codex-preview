@@ -5,8 +5,8 @@ aliases:
   - Pug's Side Quest Homepage
 continueStory:
   label: Moonsea side quest
-  title: Beneath the Same Moon
-  summary: Pug has seen the third Coronal's memory and now fights the Moon Plaza's celestial guardian while the escort rebuilds its ranks.
+  title: The City Must Judge
+  summary: The Moonstone is dormant, but Myth Drannor must still judge Pug worthy before the escort can enter the temple.
   card: pug
   href: ./campaigns/moonsea/sessions/chapter-11/pugs-side-quest/
   ariaLabel: Continue Pug's Side Quest
@@ -24,7 +24,7 @@ Home page for Pug's Side Quest, "Escort to Myth Drannor." This page always refle
 
 ## Where We Are Now
 
-The survivors woke beneath [[Kjeorn]]'s memorial and met [[Ocreata]], a drow trapped in [[Myth Drannor]] since its fall. Pug, Herschel, Morwyn and Ocreata reached the [[Moon Plaza]], where Pug saw the third Coronal's investiture and the group began solving a lunar mechanism under attack from a [[Moonstone]] and [[Moon Deva]]. Ripper and Mar have just rejoined them; the battle remains active.
+The reunited escort completed the [[Moon Plaza]]'s lunar mechanism under fire. All eight [[Moon Phase Discs|lunar discs]] are fitted and the [[Moonstone]] is dormant, but the weakened [[Moon Deva]] still bars the [[Temple of Sehanine Moonbow]] until Myth Drannor judges Pug worthy. The party must seek further trials elsewhere in the city before returning.
 
 ## Hall of Fame
 
@@ -36,28 +36,23 @@ The survivors woke beneath [[Kjeorn]]'s memorial and met [[Ocreata]], a drow tra
 | Chapter 11, Side Quest, Session 4 | The whole escort combined control, healing and ruthless timing to stop every ankheg escape and bring everyone back from the tunnels alive. See [[Session 4 - The Binder of Long Memory\|the full session]].                                                                                                        | Kjeorn charged the Binder with a Shining Smite, only for Myth Drannor's wild magic to teleport him straight into the garden's reflecting pool instead. See [[Session 4 - The Binder of Long Memory\|the full session]].                                                                             |
 | Chapter 11, Side Quest, Session 5 | [[Kjeorn]] refused to trade away Pug or any fallen companion, then gave himself to the Binder so Pug, Ripper, Mar and Morwyn could live. See [[Session 5 - The Price of Memory\|the full session]].                                                                                                                | Pug's carefully aimed thunderball blew apart a garden fountain and sent a dust mephit into a cloud of dust; the collapse was far more dramatic than the enemy's demise. See [[Session 5 - The Price of Memory\|the full session]].                                                                  |
 | Chapter 11, Side Quest, Session 6 | [[Herschel Blackroot]] recognised the fountain's lunar mechanism, found and fitted the new-moon disc, then sent a fey hawk across the battlefield to locate two more pieces. See [[Session 6 - Beneath the Same Moon\|the full session]].                                                                          | [[Nick Timoney]] searched the Moon Plaza with graceful arcs and little backward rolls, found absolutely nothing on a natural 1, and looked to Pug as though asking whether he had done well. See [[Session 6 - Beneath the Same Moon\|the full session]].                                           |
+| Chapter 11, Side Quest, Session 7 | [[Ripper]] fought through the deva's sustained wind and fitted the final waxing-crescent disc, completing the lunar mechanism and deactivating the Moonstone. See [[Session 7 - The City Must Judge\|the full session]].                                                                                           | Pug tried to protect himself with Absorb Elements, but Myth Drannor's unstable magic wrapped the protective ward around the empty socket he was pointing at instead; the socket was safe while Pug took the full lightning blast. See [[Session 7 - The City Must Judge\|the full session]].        |
 
-## Latest Session (Session 6)
+## Latest Session (Session 7)
 
-- [[Session 6 - Beneath the Same Moon|The Narrative]]
-- [[Campaigns/Moonsea/Sessions/Chapter 11/Pugs Side Quest/Session 6 - Notes|Session Notes]]
-- [[Over the Hills and Far Away|Kjeorn's Memorial Song]]
+- [[Session 7 - The City Must Judge|The Narrative]]
+- [[Campaigns/Moonsea/Sessions/Chapter 11/Pugs Side Quest/Session 7 - Notes|Session Notes]]
 
-For Sessions 1–5, see the [[Sessions/Chapter 11/Pugs Side Quest/Archive|Side Quest Archive]].
+For Sessions 1–6, see the [[Sessions/Chapter 11/Pugs Side Quest/Archive|Side Quest Archive]].
 
 ## NPCs, Companions and Creatures This Session
 
-- [[Kjeorn]]
-- [[The Binder of Long Memory]]
 - [[Moon Deva]]
-- [[Sehanine Moonbow]]
+- [[Nick Timoney]]
 
 ## Locations This Session
 
 - [[Myth Drannor]]
-- [[Garden of Long Memory]]
-- [[Hall of Scrolls]]
-- [[Coronals Way|Coronal's Way]]
 - [[Moon Plaza]]
 - [[Temple of Sehanine Moonbow]]
 
@@ -83,11 +78,11 @@ For Sessions 1–5, see the [[Sessions/Chapter 11/Pugs Side Quest/Archive|Side Q
 
 ## Loose Ends
 
-- [[Kjeorn]] is bound as [[The Binder of Long Memory]]'s shade. Pug has vowed to research a way to recover him.
+- [[Kjeorn]] is bound as [[The Binder of Long Memory]]'s shade. Pug has vowed to research a way to recover him; Kjeorn's sacrifice may count toward the city's judgment, but this is unconfirmed.
 - [[Ocreata]] cannot leave or permanently die in Myth Drannor until he repays his debt to the city; he believes helping Pug may free him.
-- The [[Moon Deva]] and [[Moonstone]] remain active in the [[Moon Plaza]]. The fountain is enclosed by Wall of Force.
-- The full-moon and new-moon discs are fitted; two other likely [[Moon Phase Discs|lunar discs]] have been located and seven sockets remain empty.
-- Ripper and Mar have rejoined Pug, Herschel, Morwyn and Ocreata at the plaza.
+- All eight [[Moon Phase Discs|lunar discs]] are fitted and the [[Moonstone]] is dormant. The party discussed removing one disc to reactivate the ward before leaving, but deferred the action.
+- The weakened [[Moon Deva]] remains the temple's last active defence and will oppose entry until Myth Drannor judges the party worthy.
+- The party must seek further trials elsewhere in the city. The Hall of Scrolls and Noble Quarter were discussed, but no destination was chosen.
 - The fate of three spirits dispersed by Pug's thunderball is uncertain.
 - The six [[Crystal Vials]] remain empty; the pool lies below Myth Drannor and its water must not touch Pug.
 - The party has reached the [[Temple of Sehanine Moonbow]] but has not entered or found the underground stairs.

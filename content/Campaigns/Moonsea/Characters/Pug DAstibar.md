@@ -7,7 +7,7 @@ aliases:
 tags:
   - pc
   - party
-status: In Myth Drannor; fighting in the Moon Plaza
+status: In Myth Drannor; seeking the city's judgment
 dg-publish: true
 publish: true
 ---
@@ -16,7 +16,7 @@ publish: true
 
 A wizard who worked at [[Mantors Library|Mantor's Library]] under [[Cassra Brandywine]]. He stayed behind in [[Phlan]] when the main party departed, then his personal business carried him through Shadowdale and physically into [[Myth Drannor]] with a separate escort. Currently level 7.
 
-**Status:** In Myth Drannor; fighting in the [[Moon Plaza]]<br>
+**Status:** In Myth Drannor; the Moonstone is dormant, but the city has not yet judged him worthy to enter the temple<br>
 **First appears:** [[Chapter 11 - Episode 1 - Session 1 The Silver Pyramid]]
 
 ## Side quest: escort to Myth Drannor
@@ -61,3 +61,11 @@ Pug's "personal business" turned out to involve [[Elminster]] and [[Shadowdale]]
 - Saw a living memory of the third Coronal's investiture in the Moon Plaza. The new Coronal knelt before the people and described authority as service, seeming to entrust the city's future directly to Pug.
 - Tried to approach the hostile Moonstone in peace and was struck by radiant lightning.
 - Counterspelled the Moon Deva's Bigby's Hand, then summoned Nick Timoney to search for the missing lunar discs.
+
+### Session 7, The City Must Judge
+
+- Broke the Moon Deva's concentration on Wall of Force with four separate Magic Missile impacts, reopening the lunar mechanism.
+- Found the third-quarter and waxing-gibbous discs. When Myth Drannor's wild magic twisted his Absorb Elements, the ward settled on the empty socket he was pointing at and he took the full lightning blast himself.
+- Was trapped in a ten-foot Gravity Sinkhole until the deva replaced it with a gust of wind.
+- Deliberately let that gust hurl him across the fountain, dropped the waxing-gibbous disc into its socket as he flew over and earned “Well played” from the guardian.
+- Learned that Myth Drannor's living Mythal—not the deva—must judge him worthy through further trials before he can enter the temple and inherit the city's memory.

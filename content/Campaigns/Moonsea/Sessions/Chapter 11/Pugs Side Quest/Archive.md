@@ -44,6 +44,12 @@ For the wider campaign, see the [[Campaigns/Moonsea/Archive|main campaign Archiv
 - [[Session 5 - The Price of Memory|The Narrative]]
 - [[Campaigns/Moonsea/Sessions/Chapter 11/Pugs Side Quest/Session 5 - Notes|Session Notes]]
 
+#### Session 6, Beneath the Same Moon
+
+- [[Session 6 - Beneath the Same Moon|The Narrative]]
+- [[Campaigns/Moonsea/Sessions/Chapter 11/Pugs Side Quest/Session 6 - Notes|Session Notes]]
+- [[Over the Hills and Far Away|Kjeorn's Memorial Song]]
+
 ## All NPCs and Powers
 
 - [[Elminster]]

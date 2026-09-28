@@ -69,8 +69,8 @@ tags:
       <span class="resume-card__art" role="img" aria-label="Pug and his companions on the road to Myth Drannor"></span>
       <span class="resume-card__body">
         <span class="resume-grid__campaign">Moonsea side quest</span>
-        <strong>Beneath the Same Moon</strong>
-        <span>Pug has seen the third Coronal's memory and now fights the Moon Plaza's celestial guardian while the escort rebuilds its ranks.</span>
+        <strong>The City Must Judge</strong>
+        <span>The Moonstone is dormant, but Myth Drannor must still judge Pug worthy before the escort can enter the temple.</span>
       </span>
     </a>
 <!-- continue-story:end -->
