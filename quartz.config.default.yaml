@@ -4,10 +4,9 @@ configuration:
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
-  analytics:
-    provider: plausible
+  analytics: null
   locale: en-US
-  baseUrl: retiredjackaroo.github.io/campaign-codex
+  baseUrl: retiredjackaroo.github.io/campaign-codex-preview
   ignorePatterns:
     - private
     - templates
@@ -201,7 +200,7 @@ plugins:
     enabled: true
     options:
       links:
-        Campaign Codex: /campaign-codex/
+        Campaign Codex: /campaign-codex-preview/
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
